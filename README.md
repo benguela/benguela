@@ -11,4 +11,5 @@ I am a software engineer.
 
 ### My Portfolio
 
-* [Taylow Window] (https://github.com/benguela/taylorwin.jl)
+* [Taylow Window Implemented in Julia] (https://github.com/benguela/taylorwin.jl)
+* [OCR Android App] (https://github.com/benguela/ocr-example/blob/master/README.md)
