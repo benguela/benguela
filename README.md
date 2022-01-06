@@ -11,5 +11,5 @@ I am a software engineer.
 
 ### My Portfolio
 
-* [Taylow Window Implemented in Julia] (https://github.com/benguela/taylorwin.jl)
-* [Advent of Code 2021 in Julia] (https://github.com/benguela/aoc2021)
+* [Taylow Window Implemented in Julia](https://github.com/benguela/taylorwin.jl)
+* [Advent of Code 2021 in Julia](https://github.com/benguela/aoc2021)
