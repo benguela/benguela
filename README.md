@@ -12,4 +12,4 @@ I am a software engineer.
 ### My Portfolio
 
 * [Taylow Window Implemented in Julia] (https://github.com/benguela/taylorwin.jl)
-* [OCR Android App] (https://github.com/benguela/ocr-example/blob/master/README.md)
+* [Advent of Code 2021 in Julia] (https://github.com/benguela/aoc2021)
